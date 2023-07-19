@@ -1,16 +1,8 @@
-# ai_project
+# AI project 
+An app built during this course 
+https://ua.udemy.com/course/openai-dall-e-chat-gpt-make-flutter-siri-alexa-clone/learn/lecture/36486446#overview
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Functionality
+- Using chat GPT to generate text response
+- Using Dall E to generate an image on user description
+- Using text_to_speech and speech_to_text
